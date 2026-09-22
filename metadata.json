@@ -1,0 +1,6 @@
+{
+  "name": "CBT SMK KAWULA INDONESIA",
+  "description": "Aplikasi Ujian Sekolah Berbasis Komputer (CBT) SMK KAWULA INDONESIA dengan integrasi Google Drive, Google Form, dan Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
